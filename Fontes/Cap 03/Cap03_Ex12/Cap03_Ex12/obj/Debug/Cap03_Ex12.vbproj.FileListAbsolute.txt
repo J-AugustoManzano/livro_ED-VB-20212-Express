@@ -1,0 +1,10 @@
+c:\users\augusto\documents\visual studio 2012\Projects\Cap03_Ex12\Cap03_Ex12\bin\Debug\Cap03_Ex12.exe.config
+c:\users\augusto\documents\visual studio 2012\Projects\Cap03_Ex12\Cap03_Ex12\bin\Debug\Cap03_Ex12.exe
+c:\users\augusto\documents\visual studio 2012\Projects\Cap03_Ex12\Cap03_Ex12\bin\Debug\Cap03_Ex12.pdb
+c:\users\augusto\documents\visual studio 2012\Projects\Cap03_Ex12\Cap03_Ex12\bin\Debug\Cap03_Ex12.xml
+c:\users\augusto\documents\visual studio 2012\Projects\Cap03_Ex12\Cap03_Ex12\obj\Debug\Cap03_Ex12.Form1.resources
+c:\users\augusto\documents\visual studio 2012\Projects\Cap03_Ex12\Cap03_Ex12\obj\Debug\Cap03_Ex12.Resources.resources
+c:\users\augusto\documents\visual studio 2012\Projects\Cap03_Ex12\Cap03_Ex12\obj\Debug\Cap03_Ex12.vbproj.GenerateResource.Cache
+c:\users\augusto\documents\visual studio 2012\Projects\Cap03_Ex12\Cap03_Ex12\obj\Debug\Cap03_Ex12.exe
+c:\users\augusto\documents\visual studio 2012\Projects\Cap03_Ex12\Cap03_Ex12\obj\Debug\Cap03_Ex12.xml
+c:\users\augusto\documents\visual studio 2012\Projects\Cap03_Ex12\Cap03_Ex12\obj\Debug\Cap03_Ex12.pdb
