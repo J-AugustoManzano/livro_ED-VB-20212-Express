@@ -1,0 +1,9 @@
+c:\users\augusto\documents\visual studio 2012\Projects\TesteConsole\TesteConsole\bin\Debug\TesteConsole.exe.config
+c:\users\augusto\documents\visual studio 2012\Projects\TesteConsole\TesteConsole\bin\Debug\TesteConsole.exe
+c:\users\augusto\documents\visual studio 2012\Projects\TesteConsole\TesteConsole\bin\Debug\TesteConsole.pdb
+c:\users\augusto\documents\visual studio 2012\Projects\TesteConsole\TesteConsole\bin\Debug\TesteConsole.xml
+c:\users\augusto\documents\visual studio 2012\Projects\TesteConsole\TesteConsole\obj\Debug\TesteConsole.Resources.resources
+c:\users\augusto\documents\visual studio 2012\Projects\TesteConsole\TesteConsole\obj\Debug\TesteConsole.vbproj.GenerateResource.Cache
+c:\users\augusto\documents\visual studio 2012\Projects\TesteConsole\TesteConsole\obj\Debug\TesteConsole.exe
+c:\users\augusto\documents\visual studio 2012\Projects\TesteConsole\TesteConsole\obj\Debug\TesteConsole.xml
+c:\users\augusto\documents\visual studio 2012\Projects\TesteConsole\TesteConsole\obj\Debug\TesteConsole.pdb
